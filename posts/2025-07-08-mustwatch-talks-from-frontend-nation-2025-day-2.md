@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #9] - Must-Watch Talks from Frontend Nation 2025: Day 2"
 date: 2025-07-08T15:04:58.000Z
-description: "&#128467;&#65039; July 7, 2025 | &#9997;&#65039; Curated by ValPetal Tech Labs"
-image: "https://substackcdn.com/image/fetch/$s_!aOmW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56164647-932c-4f1b-a724-8e3b52567a85_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/talkoverflow-9-must-watch-talks-from"
 tags: ["newsletter", "talk-overflow"]
 ---

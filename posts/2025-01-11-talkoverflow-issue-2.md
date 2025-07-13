@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow – Issue #2"
 date: 2025-01-10T20:49:38.000Z
-description: "Insightful sessions on performance, new features, and building a better tech community &#128640;"
-image: "https://substackcdn.com/image/fetch/$s_!aOmW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56164647-932c-4f1b-a724-8e3b52567a85_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/code-talks-issue-2"
 tags: ["newsletter", "talk-overflow"]
 ---

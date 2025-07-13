@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #10] - Must-Watch Talks from AI Engineer Summit 2025: Day 1"
 date: 2025-07-13T00:54:18.000Z
-description: "&#9997;&#65039; Curated by ValPetal Tech Labs"
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/talkoverflow-10-must-watch-talks"
 tags: ["newsletter", "talk-overflow"]
 ---

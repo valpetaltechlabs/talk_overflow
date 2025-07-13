@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #8] - Frontend Nation 2025 – Day 1 Recap: 40+ Talks"
 date: 2025-07-02T22:12:03.000Z
-description: "Curated talks from Frontend Nation 2025 to help you level up with every view."
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/talkoverflow-8-frontend-nation-2025"
 tags: ["newsletter", "talk-overflow"]
 ---

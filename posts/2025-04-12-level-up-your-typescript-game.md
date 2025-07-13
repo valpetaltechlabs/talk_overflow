@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #5] Level Up Your TypeScript Game"
 date: 2025-04-12T06:02:50.000Z
-description: "Master generics, dodge timezone bugs, and decode complex types (Netflix-approved). Plus: Fix error handling. Don&#8217;t miss these talks! &#128071;"
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/codetalks-5-level-up-your-typescript"
 tags: ["newsletter", "talk-overflow"]
 ---

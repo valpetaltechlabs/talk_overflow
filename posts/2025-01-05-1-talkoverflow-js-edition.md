@@ -1,8 +1,6 @@
 ---
 title: "#1 Talk::Overflow [JS Edition"
 date: 2025-01-04T20:19:39.000Z
-description: "&#127881; Top JavaScript Talks of 2024 You Can&#8217;t Miss! &#128640;"
-image: "https://substackcdn.com/image/fetch/$s_!aOmW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56164647-932c-4f1b-a724-8e3b52567a85_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/1-code-talks-js-edition"
 tags: ["newsletter", "talk-overflow"]
 ---

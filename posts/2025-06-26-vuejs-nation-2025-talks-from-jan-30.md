@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #7] Vue.js Nation 2025 - Talks from Jan 30"
 date: 2025-06-26T00:33:54.000Z
-description: "&#128197; January 30 | &#128640; Async State, AI Panels, Local-First Apps & More"
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/talkoverflow-7-vuejs-nation-2025"
 tags: ["newsletter", "talk-overflow"]
 ---

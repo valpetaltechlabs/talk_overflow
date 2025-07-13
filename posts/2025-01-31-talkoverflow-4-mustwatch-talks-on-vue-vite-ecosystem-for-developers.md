@@ -1,8 +1,6 @@
 ---
 title: "🚀 Talk::Overflow #4: Must-Watch Talks on Vue & Vite Ecosystem for Developers"
 date: 2025-01-31T13:36:03.000Z
-description: "Discover the latest insights on Vue, Vite and JavaScript tooling from top industry experts."
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/codetalks-4-must-watch-talks-on-vue"
 tags: ["newsletter", "talk-overflow"]
 ---

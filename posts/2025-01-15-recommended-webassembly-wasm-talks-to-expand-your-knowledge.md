@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #3] Recommended WebAssembly (Wasm) Talks to Expand Your Knowledge"
 date: 2025-01-15T02:01:38.000Z
-description: "Understand the Power of WebAssembly Through These Talks"
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/code-talks-issue-3"
 tags: ["newsletter", "talk-overflow"]
 ---

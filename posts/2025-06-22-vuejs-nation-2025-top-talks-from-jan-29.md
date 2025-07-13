@@ -1,8 +1,6 @@
 ---
 title: "Talk::Overflow #6] Vue.js Nation 2025 - Top Talks from Jan 29"
 date: 2025-06-22T15:17:22.000Z
-description: "Your weekly developer digest &#8212; curated dev talks worth watching."
-image: "https://substackcdn.com/image/fetch/$s_!fAq7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ae42ac-d6e2-4108-8bc2-fc0949d21af5_1024x1024.png"
 link: "https://talkoverflow.substack.com/p/talkoverflow-6-vuejs-nation-2025"
 tags: ["newsletter", "talk-overflow"]
 ---
