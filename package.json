@@ -1,0 +1,17 @@
+{
+  "name": "talk_overflow",
+  "version": "1.0.0",
+  "description": "🎙️ **Talk::Overflow** — A weekly curation of standout developer talks from the best tech conferences around the world.",
+  "main": "process-feed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "sanitize-filename": "^1.6.3",
+    "xml2js": "^0.6.2"
+  }
+}
