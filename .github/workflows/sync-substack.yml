@@ -15,9 +15,10 @@ jobs:
       - name: Convert feed items to Markdown
         uses: keiranlovett/rss-feed-to-markdown@v1.1.6
         with:
-          feed_url: 'https://talkoverflow.substack.com/feed'
+          feed_url: 'https://valpetal.substack.com/feed'
           template_file: 'assets/substack-template.md'
           output_dir: 'posts'
+          max_posts: 10
 
       - name: Commit & push if anything changed
         run: |
